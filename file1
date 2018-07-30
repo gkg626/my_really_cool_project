@@ -1,1 +1,4 @@
-This is file1, good sir.
+<<<<<<< HEAD
+This is file1, good dawg.
+=======
+>>>>>>> foo_feature
